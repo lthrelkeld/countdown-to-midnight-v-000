@@ -4,4 +4,5 @@ def countdown(count)
   while count < 10
     puts "#{count} is less than 10"
     count +=1
+  end
 end
